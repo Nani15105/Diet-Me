@@ -12,6 +12,7 @@
 		3D4BEFE0202265CC0084439C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D4BEFDE202265CC0084439C /* Main.storyboard */; };
 		3D4BEFE2202265CC0084439C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3D4BEFE1202265CC0084439C /* Assets.xcassets */; };
 		3D4BEFE5202265CC0084439C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D4BEFE3202265CC0084439C /* LaunchScreen.storyboard */; };
+		3D4BEFED2022674E0084439C /* Diet.csv in Resources */ = {isa = PBXBuildFile; fileRef = 3D4BEFEC2022674E0084439C /* Diet.csv */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		3D4BEFE1202265CC0084439C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3D4BEFE4202265CC0084439C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3D4BEFE6202265CC0084439C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3D4BEFEC2022674E0084439C /* Diet.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = Diet.csv; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				3D4BEFDA202265CC0084439C /* AppDelegate.swift */,
 				3D4BEFDC202265CC0084439C /* ViewController.swift */,
 				3D4BEFDE202265CC0084439C /* Main.storyboard */,
+				3D4BEFEC2022674E0084439C /* Diet.csv */,
 				3D4BEFE1202265CC0084439C /* Assets.xcassets */,
 				3D4BEFE3202265CC0084439C /* LaunchScreen.storyboard */,
 				3D4BEFE6202265CC0084439C /* Info.plist */,
@@ -123,6 +126,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3D4BEFED2022674E0084439C /* Diet.csv in Resources */,
 				3D4BEFE5202265CC0084439C /* LaunchScreen.storyboard in Resources */,
 				3D4BEFE2202265CC0084439C /* Assets.xcassets in Resources */,
 				3D4BEFE0202265CC0084439C /* Main.storyboard in Resources */,
